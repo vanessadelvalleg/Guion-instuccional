@@ -1,0 +1,29 @@
+.container-image {
+    background-size: cover;
+    background-position: center center;
+  }
+
+  
+div#container-main #header {
+    position: relative;
+    min-height: 150px;
+    background-color: #8eafc4
+}
+
+.footer{
+    display: flex;
+    background-color: #8eafc4;
+    justify-content: space-between;
+    position: relative;
+
+  }
+  
+  .footer-letter{
+    padding: 5px;
+    color: #fff;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+  }

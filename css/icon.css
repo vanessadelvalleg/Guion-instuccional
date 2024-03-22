@@ -1,0 +1,25 @@
+
+.icon-background-hand {
+  color: #3c78d8;
+  padding-left: 0.1em;
+}
+
+.icon-background-play {
+  color: #3c78d8;
+}
+
+.color-icon {
+  color: #fff;
+  font-size: 25px;
+}
+
+
+.imgunity img {
+  opacity: 1;
+  transition: 1s ease;
+}
+
+.imgunity img:hover {
+  opacity: 0.5;
+  transition: 1s ease;
+}
